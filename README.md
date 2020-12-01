@@ -10,7 +10,7 @@
 <p><b>• Chemical Bond</b></p>
 <p>The force that holds different atoms in a molecule is called chemical bond.</p>
 <p><b>• Octet Rule</b></p>
-Atoms of different elements take part in chemical combination in order to complete their octet or to attain the noble gas configuration.</p>
+<p>Atoms of different elements take part in chemical combination in order to complete their octet or to attain the noble gas configuration.</p>
 <p><b>• Valence Electrons</b></p>
 <p>It is the outermost shell electron which takes part in chemical combination.</p>
 <p><b>• Facts Stated by Kossel in Relation to Chemical Bonding</b></p>
